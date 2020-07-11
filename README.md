@@ -4,3 +4,4 @@
 
 - 💻 Ruby on Rails, ReactJS, NodeJS, React Native
 - 🤖 FullStack developer at ***TapGoods***
+- 🇧🇷:🇺🇸
