@@ -4,4 +4,5 @@
 
 - 💻 Ruby on Rails, ReactJS, NodeJS, React Native
 - 🤖 FullStack developer at ***TapGoods***
+- 📚 Former Teacher at ***Le Wagon***
 - 🇧🇷:🇺🇸
