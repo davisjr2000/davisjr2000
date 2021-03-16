@@ -3,6 +3,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-davisrobertosouza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davisrobertosouza@gmail.com)](mailto:davisrobertosouza@gmail.com)
 
 - 💻 Ruby on Rails, ReactJS, NodeJS, React Native
-- 🍽️ Full-Stack Developer at ***Lineup***
+- 🍽️ Software Engineer at ***Lineup***
 - 📚 Former Teacher at ***Le Wagon Coding Bootcamp***
 - 🇧🇷:🇺🇸
