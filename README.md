@@ -1,4 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=davisjr&repo=davisjr2000&countColorcountColor)
 
 <img align="right" src="https://user-images.githubusercontent.com/36746834/122995650-401f4d80-d380-11eb-97cf-0cb2d2b83935.png" width="260" />
 
