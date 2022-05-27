@@ -1,1 +1,2 @@
-<img src="https://user-images.githubusercontent.com/36746834/169581367-b572bd00-4a6b-4dd8-abae-2197a8b183f7.gif" width='2000'>
+
+<img width="920" alt="davis rb" src="https://user-images.githubusercontent.com/36746834/170716030-ad59424d-3190-4054-bc4b-44306a17ddcd.png">
